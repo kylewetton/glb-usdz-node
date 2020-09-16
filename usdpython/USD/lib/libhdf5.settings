@@ -1,0 +1,83 @@
+	    SUMMARY OF THE HDF5 CONFIGURATION
+	    =================================
+
+General Information:
+-------------------
+                   HDF5 Version: 1.10.0-patch1
+                  Configured on: 2020-01-16
+                  Configured by: Unix Makefiles
+                    Host system: Darwin-19.2.0
+              Uname information: Darwin
+                       Byte sex: little-endian
+             Installation point: /Users/sergei/repos/USDPythonBuild
+
+Compiling Options:
+------------------
+                     Build Mode: Release
+              Debugging Symbols: 
+                        Asserts: 
+                      Profiling: 
+             Optimization Level: 
+
+Linking Options:
+----------------
+                      Libraries: 
+  Statically Linked Executables: OFF
+                        LDFLAGS: 
+                     H5_LDFLAGS: 
+                     AM_LDFLAGS: 
+                Extra libraries: m;dl
+                       Archiver: /Volumes/Xcode11B500_m18A391011_m19C56_i17C54_Boost_26GB/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar
+                         Ranlib: /Volumes/Xcode11B500_m18A391011_m19C56_i17C54_Boost_26GB/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib
+
+Languages:
+----------
+                              C: yes
+                     C Compiler: /Volumes/Xcode11B500_m18A391011_m19C56_i17C54_Boost_26GB/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc 11.0.0.11000033
+                       CPPFLAGS: 
+                    H5_CPPFLAGS: 
+                    AM_CPPFLAGS: 
+                         CFLAGS: 
+                      H5_CFLAGS: 
+                      AM_CFLAGS: 
+               Shared C Library: YES
+               Static C Library: YES
+
+                        Fortran: OFF
+               Fortran Compiler:  
+                  Fortran Flags: 
+               H5 Fortran Flags: 
+               AM Fortran Flags: 
+         Shared Fortran Library: YES
+         Static Fortran Library: YES
+
+                            C++: ON
+                   C++ Compiler: /Volumes/Xcode11B500_m18A391011_m19C56_i17C54_Boost_26GB/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ 11.0.0.11000033
+                      C++ Flags: 
+                   H5 C++ Flags: 
+                   AM C++ Flags: 
+             Shared C++ Library: YES
+             Static C++ Library: YES
+
+                            JAVA: OFF
+                   JAVA Compiler:  
+
+Features:
+---------
+                  Parallel HDF5: OFF
+             High-level library: ON
+                   Threadsafety: OFF
+            Default API mapping: v110
+ With deprecated public symbols: ON
+         I/O filters (external): 
+                            MPE: 
+                     Direct VFD: 
+                        dmalloc: 
+ Packages w/ extra debug output: 
+                    API Tracing: OFF
+           Using memory checker: OFF
+Memory allocation sanity checks: OFF
+            Metadata trace file: 
+         Function Stack Tracing: OFF
+      Strict File Format Checks: OFF
+   Optimization Instrumentation: 

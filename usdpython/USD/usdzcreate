@@ -1,0 +1,11 @@
+#!/usr/bin/python
+
+# Creates a cube mesh
+
+from pxr import *
+import sys
+
+usdSource = sys.argv[1]
+usdDestination = sys.argv[2]
+
+UsdUtils.CreateNewARKitUsdzPackage(usdSource, usdDestination)
